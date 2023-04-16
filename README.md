@@ -24,3 +24,5 @@ L'interface utilisateur se présente comme suit: /index
 Il est possible de chercher des patients à partir de leur nom et de les supprimer:
 ![image](https://user-images.githubusercontent.com/93864104/232347193-1934f227-38f5-4109-9991-b638f02cd7f6.png)
 
+Il est meme possible de naviguer entre les pages:
+![image](https://user-images.githubusercontent.com/93864104/232348186-cd4e9837-7fcb-4079-98af-bee94e9739b5.png)
